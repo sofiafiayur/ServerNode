@@ -31,7 +31,7 @@ async function createPerson() {
         firstName: 'Sansa',
         lastName: 'Stark',
         createdat: Date.now(),
-        // age: 25
+        age: 25
     });
 
     try {
